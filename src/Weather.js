@@ -113,7 +113,7 @@ export default function Weather() {
 
       <h5>
         <a
-          href="https://github.com/lidya-toscano/Weather-App-lidya"
+          href="https://github.com/lidya-toscano/react-weather-app"
           target="nonreferrer"
         >
           Open-Source Code
